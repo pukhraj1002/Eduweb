@@ -402,7 +402,7 @@ export default function Dashboard() {
       </main>
       <footer className="border-t py-6 mt-auto">
         <div className="container mx-auto text-center text-sm text-muted-foreground px-4">
-          Built by{" "}
+          Build by{" "}
           <Link
             href="https://bento.me/pukhraj2004"
             className="font-medium text-foreground hover:text-primary transition-colors"
